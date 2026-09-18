@@ -38,7 +38,9 @@ To create a production build, run `npm run build`. To inspect that build locally
 
 ## Screenshot
 
-A screenshot is not included in this repository. Run the app locally with `npm run dev` to see the responsive kennel interface.
+The screenshot below shows Milo after being fed while Luna remains sad, demonstrating that each pet's state updates independently.
+
+![Sunny Paws Pet Kennel Demo](public/pet-kennel-demo.png)
 
 ## How the React data flow works
 
